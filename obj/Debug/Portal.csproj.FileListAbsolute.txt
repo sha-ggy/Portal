@@ -1,0 +1,84 @@
+F:\project\Portal\bin\Debug\Portal.exe.config
+F:\project\Portal\bin\Debug\Portal.exe
+F:\project\Portal\bin\Debug\Portal.pdb
+F:\project\Portal\obj\Debug\Portal.csproj.AssemblyReference.cache
+F:\project\Portal\obj\Debug\Portal.Form1.resources
+F:\project\Portal\obj\Debug\Portal.Form2.resources
+F:\project\Portal\obj\Debug\Portal.Properties.Resources.resources
+F:\project\Portal\obj\Debug\Portal.Registration.resources
+F:\project\Portal\obj\Debug\Portal.csproj.GenerateResource.cache
+F:\project\Portal\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+F:\project\Portal\obj\Debug\Portal.exe
+F:\project\Portal\obj\Debug\Portal.pdb
+F:\project\Portal\Portal\obj\Debug\Portal.csproj.AssemblyReference.cache
+F:\project\Portal\Portal\obj\Debug\Portal.Form1.resources
+F:\project\Portal\Portal\obj\Debug\Portal.Properties.Resources.resources
+F:\project\Portal\Portal\obj\Debug\Portal.Registration.resources
+F:\project\Portal\Portal\obj\Debug\Portal.csproj.GenerateResource.cache
+F:\project\Portal\Portal\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+F:\project\Portal\Portal\obj\Debug\Portal.exe
+F:\project\Portal\Portal\obj\Debug\Portal.pdb
+F:\project\Portal\Portal\bin\Debug\Portal.exe.config
+F:\project\Portal\Portal\bin\Debug\Portal.exe
+F:\project\Portal\Portal\bin\Debug\Portal.pdb
+F:\project\Portal\Portal\obj\Debug\Portal.home.resources
+F:\project\Portal\Portal\obj\Debug\Portal.AdminPanel.resources
+F:\project\Portal\Portal\obj\Debug\Portal.Form2.resources
+F:\project\Portal\Portal\obj\Debug\Portal.AddStudentsForm.resources
+F:\project\Portal\Portal\obj\Debug\Portal.AddTeachersForm.resources
+F:\project\Portal\Portal\obj\Debug\Portal.AddCoursesForm.resources
+F:\project\Portal\Portal\obj\Debug\Portal.StudentEnrollment.resources
+F:\project\Portal\Portal\obj\Debug\Portal.Hello.resources
+F:\project\Portal\Portal\obj\Debug\Portal.AddGrade.resources
+F:\project\Portal\Portal\obj\Debug\Portal.Faculty.resources
+F:\project\Portal\Portal\obj\Debug\Portal.FacultyLoginPanel.resources
+F:\project\Portal\Portal\obj\Debug\Portal.FChangePassword.resources
+F:\project\Portal\Portal\obj\Debug\Portal.CourseRoutineFaculty.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.AddCoursesForm.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.AddGrade.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.AddStudentsForm.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.AddTeachersForm.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.AdminPanel.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.CourseRoutineFaculty.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Faculty.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.FacultyLoginPanel.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.FChangePassword.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Form1.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Form2.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Hello.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.home.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Properties.Resources.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Registration.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.StudentEnrollment.resources
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.exe
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.pdb
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\bin\Debug\Portal.exe.config
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\bin\Debug\Portal.exe
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\bin\Debug\Portal.pdb
+C:\Users\User\OneDrive\6. S6 Summer 2024\C#\csharp\obj\Debug\Portal.Student.resources
+D:\csharp\bin\Debug\Portal.exe.config
+D:\csharp\bin\Debug\Portal.exe
+D:\csharp\bin\Debug\Portal.pdb
+D:\csharp\obj\Debug\Portal.csproj.AssemblyReference.cache
+D:\csharp\obj\Debug\Portal.AddCoursesForm.resources
+D:\csharp\obj\Debug\Portal.AddGrade.resources
+D:\csharp\obj\Debug\Portal.AddStudentsForm.resources
+D:\csharp\obj\Debug\Portal.AddTeachersForm.resources
+D:\csharp\obj\Debug\Portal.AdminPanel.resources
+D:\csharp\obj\Debug\Portal.CourseRoutineFaculty.resources
+D:\csharp\obj\Debug\Portal.Faculty.resources
+D:\csharp\obj\Debug\Portal.FacultyLoginPanel.resources
+D:\csharp\obj\Debug\Portal.FChangePassword.resources
+D:\csharp\obj\Debug\Portal.Form1.resources
+D:\csharp\obj\Debug\Portal.Hello.resources
+D:\csharp\obj\Debug\Portal.Properties.Resources.resources
+D:\csharp\obj\Debug\Portal.Registration.resources
+D:\csharp\obj\Debug\Portal.Student.resources
+D:\csharp\obj\Debug\Portal.StudentEnrollment.resources
+D:\csharp\obj\Debug\Portal.csproj.GenerateResource.cache
+D:\csharp\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+D:\csharp\obj\Debug\Portal.exe
+D:\csharp\obj\Debug\Portal.pdb
