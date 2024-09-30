@@ -19,7 +19,7 @@ namespace Portal
 
 
         string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\csharp\db\Schedule.mdf;Integrated Security=True;Connect Timeout=30";
-        string connectionString2 = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\csharp\db\StudentData.mdf;Integrated Security=True;Connect Timeout=30";
+        string connectionString2 = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\csharp\db\StudentData101.mdf;Integrated Security=True;Connect Timeout=30";
         public Student()
         {
 
